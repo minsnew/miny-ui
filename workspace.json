@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "miny-design-system": "apps/miny-design-system",
+    "miny-design-system-e2e": "apps/miny-design-system-e2e"
+  }
+}
