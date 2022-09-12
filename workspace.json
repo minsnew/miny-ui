@@ -3,6 +3,8 @@
   "version": 2,
   "projects": {
     "miny-design-system": "apps/miny-design-system",
-    "miny-design-system-e2e": "apps/miny-design-system-e2e"
+    "miny-design-system-e2e": "apps/miny-design-system-e2e",
+    "miny-ui": "libs/miny-ui",
+    "miny-ui-e2e": "apps/miny-ui-e2e"
   }
 }
