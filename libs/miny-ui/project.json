@@ -21,7 +21,8 @@
             "input": ".",
             "output": "."
           }
-        ]
+        ],
+        "postcssConfig": "libs/miny-ui/postcss.config.js"
       }
     },
     "lint": {
